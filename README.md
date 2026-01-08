@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello There, I'm Laba Deka 👋
 
-<!--
-**Kuxha/Kuxha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Backend & Systems Engineer** with 4+ years of experience architecting high-scale infrastructure.
+Currently pursuing my **MS in Computer Science at New York University** (Graduating May 2026).
 
-Here are some ideas to get you started:
+🛠 **Engineering Highlights**
+- [cite_start]**Scale:** Architected systems handling **500k RPM** and serving **80M+ users** at BookMyShow[cite: 21].
+- [cite_start]**Infrastructure:** Led a Monolith → Microservices migration (Go/AWS), cutting costs by 40%[cite: 23, 24].
+- **Current Focus:** Building deterministic **AI Agents**, **SAST Security Tools**, and **Reliable RAG Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Technologies
+- **Languages:** Go (Golang), Python, Scala, SQL
+- **AI & Data:** Model Context Protocol (MCP), PydanticAI, RAG, Kafka, Spark
+- **Infrastructure:** AWS, Docker, Kubernetes, Terraform
+
+📫 **Connect with me:**
+[LinkedIn](https://linkedin.com/in/laba-deka) | [Email](mailto:l.deka@nyu.edu)
